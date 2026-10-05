@@ -6,7 +6,7 @@ This is my portfolio Thank you for having a look.
   <strong style="color: red;">Centered bold red text</strong>
 </div>
 
-<img src="image.jpg" width="300" height="200" alt="Image with specified size">
+<img src="[orange.jpg](https://www.bing.com/th/id/OIP.9_LbMfZI0v6_fAQWYuqwGAHaFS?w=170&h=128&c=8&rs=1&qlt=90&o=6&pid=ImgAns&rm=2)" width="300" height="200" alt="Image with specified size">
 
 <table border="1">
   <tr>
